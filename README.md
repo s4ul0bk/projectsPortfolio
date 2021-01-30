@@ -1,7 +1,7 @@
 # Saulo's Data Science Portfolio
 The main objective of this personal portfolio is to demonstrate my skills in solving business challengs through my knowledge and tools of Data Science.
 
-![portifolio](/images/portifolioHead.png)
+![portifolio](portifolioHead.png)
 
 # Saulo Ferreira Cunha
 <sub>*Data Scientist*</sub>
@@ -32,7 +32,7 @@ The details of each solution are described in the projects below.
 
 Machine Learning and predict next 6 week sales. Company need to identify the sales forecast to next 6 weeks to invest on shops reform.
 In this project, i built a Machine Learning regressort to predict sales forecast with ** X% of accuracy**.
-The model is available in ![telegram bot] (http://t.me/rossman_scunha_bot). Send a shop number (99) and his will [responde](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6744631371647500288) you a sale forecast.
+The model is available in ![telegram bot](http://t.me/rossman_scunha_bot). Send a shop number (99) and his will [responde](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6744631371647500288) you a sale forecast.
 
 ### [Fraud Detection]( https://github.com/s4ul0bk/blockerFraud )
 
