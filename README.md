@@ -30,7 +30,7 @@ The details of each solution are described in the projects below.
 
 ## Data Science Projects:
 
-### Sales Forecast - In progress
+### [Sales Forecast] (https://github.com/s4ul0bk/RossmannSalesForescast)
 
 Machine Learning and predict next 6 week sales. Company need to identify the sales forecast to next 6 weeks to invest on shops reform.
 In this project, i built a Machine Learning regressort to predict sales forecast with ** X% of accuracy**.
