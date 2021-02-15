@@ -22,7 +22,7 @@ The details of each solution are described in the projects below.
 **Development:** Git, Scrum, Linux.
 **Data Vizualization:** Power BI.
 **Machine Learning Modeling:** Classification, Regression.
-**Machine Learning Deployment:** Heroku Cloud Application Platform
+**Machine Learning Deployment:** Heroku Cloud Application Platform, Flask API
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saulo-ferreira-cunha-6a6ba232/)
