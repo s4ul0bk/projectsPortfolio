@@ -1,9 +1,7 @@
 # Saulo's Data Science Portfolio
 The main objective of this personal portfolio is to demonstrate my skills in solving business challengs through my knowledge and tools of Data Science.
 
-<p align='center'>
-    <img src='portifolioHead.png'>
-</p>
+[Header](portifolioHead.jpg)
 
 # Saulo Ferreira Cunha
 <sub>*Data Scientist*</sub>
