@@ -43,5 +43,5 @@ In this project, I built a Machine Learning classifier to label fraudulent trans
 The performance of this model would bring **revenue of U$623,2 millions** according to the company's business model described in the problem definition.
 
 ### Customer priorizing for vehicle insurance cross-sell - In Progress
-Machine Learning and taking fraud detection. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
-This project is in progress.
+
+Machine Learning and ranking customers. Company need to prioritizing 20000 customers to call offering a vehicle's Insurance. The model will prioritizing the more probality interesting of acquirin the vehicle insurance of all customer to maximize sales.
