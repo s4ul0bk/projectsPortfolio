@@ -44,3 +44,4 @@ The performance of this model would bring **revenue of U$623,2 millions** accord
 
 Machine Learning and ranking customers. Company need to prioritizing 20000 customers to call offering a vehicle's Insurance. The model will prioritizing the more probality interesting of acquirin the vehicle insurance of all customer to maximize sales.
 The performance of this model would bring **revenue of U$5,8 millions** according to the company's business model described in the problem definition.
+The model API is available in [Heroku Platform](https://iacvehicleinsurance.herokuapp.com/insuranceAll/predict)
