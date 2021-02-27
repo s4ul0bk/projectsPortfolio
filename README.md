@@ -40,6 +40,7 @@ Machine Learning and taking fraud detection. Companies are reducing their costs 
 In this project, I built a Machine Learning classifier to label fraudulent transactions with **99.51% of accuracy.**
 The performance of this model would bring **revenue of U$623,2 millions** according to the company's business model described in the problem definition.
 
-### Customer priorizing for vehicle insurance cross-sell - In Progress
+### [Customer priorizing for vehicle insurance cross-sell](https://github.com/s4ul0bk/insuranceAllCompany)
 
 Machine Learning and ranking customers. Company need to prioritizing 20000 customers to call offering a vehicle's Insurance. The model will prioritizing the more probality interesting of acquirin the vehicle insurance of all customer to maximize sales.
+The performance of this model would bring **revenue of U$5,8 millions** according to the company's business model described in the problem definition.
