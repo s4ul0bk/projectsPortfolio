@@ -15,11 +15,14 @@ I have already developed solutions for important business problemas such as dete
 The details of each solution are described in the projects below.
 
 **Analytical Tools:**
-**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, Oracle, Pentaho Data Integration, Talend data Integration.
+**Data Collect and Storage:** Spark(pyspark), Azure Data Factory, Pentaho Data Integration, Talend data Integration, SQL
+**Databases:** Databricks Delta Lake, MySQL, Postgres, SQL Server, Oracle
+**Big Data:** Spark Databricks
 **Data Processing and Analysis:** Python
-**Development:** Git, Scrum, Linux.
-**Data Vizualization:** Power BI.
-**Machine Learning Modeling:** Classification, Regression.
+**Development:** Git, Scrum, Python.
+**Operational System:** Windows, Linux
+**Data Vizualization:** Power BI, Databricks SQL
+**Machine Learning Modeling:** Classification, Regression, Clusterization
 **Machine Learning Deployment:** Heroku Cloud Application Platform, Flask API
 
 **Links:**
@@ -40,8 +43,13 @@ Machine Learning and taking fraud detection. Companies are reducing their costs 
 In this project, I built a Machine Learning classifier to label fraudulent transactions with **99.51% of accuracy.**
 The performance of this model would bring **revenue of U$623,2 millions** according to the company's business model described in the problem definition.
 
-### [Customer priorizing for vehicle insurance cross-sell](https://github.com/s4ul0bk/insuranceAllCompany)
+### [Customer priorizing for vehicle insurance cross-sell]( https://github.com/s4ul0bk/insuranceAllCompany )
 
 Machine Learning and ranking customers. Company need to prioritizing 20000 customers to call offering a vehicle's Insurance. The model will prioritizing the more probality interesting of acquirin the vehicle insurance of all customer to maximize sales.
 The performance of this model bringed **298% increasing than random method, with revenue of U$5,8 millions** according to the company's business model described in the problem definition.
 The model API is available in [Heroku Platform](https://iacvehicleinsurance.herokuapp.com/insuranceAll/predict)
+
+### [Cardiac diseases detection]( https://github.com/s4ul0bk/cardioCatchDiseases )
+
+Machine Learning and predict cardiac diseases. Company need to increase accuracy on cardio detection, current doing by human specialists.
+The performance of this model bringed **7x increasing than current method, with revenue of U$41,9 millions** according to the company's business model described in the problem definition.
